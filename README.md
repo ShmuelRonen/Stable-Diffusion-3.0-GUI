@@ -13,7 +13,6 @@ Stable Diffusion 3.0 beta Generation GUI is a user-friendly graphical interface 
 4. Entering the API key in a special window
 
 #### How to install:
-1. git clone 
-2. Saves the images in the Outputs folder automatically.
-3. Shows the API messages in the TextBox window
-4. Entering the API key in a special window
+1. git clone https://github.com/ShmuelRonen/Stable-Diffusion-3.0-GUI.git
+2. Inside Stable-Diffusion-3.0-GUI folder click on start.bat
+3. Enjoy.

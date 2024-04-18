@@ -80,7 +80,7 @@ with gr.Blocks() as demo:
             )
             seed = gr.Number(label="Seed", value=0)
             api_key = gr.Textbox(label="API Key", type="password")
-            generate_button = gr.Button("Generate Image")
+            generate_button = gr.Button("Generate Image", variant="primary")
 
         with gr.Column():
             output_image = gr.Image(label="Generated Image", interactive=False)

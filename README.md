@@ -11,3 +11,9 @@ Stable Diffusion 3.0 beta Generation GUI is a user-friendly graphical interface 
 2. Saves the images in the Outputs folder automatically.
 3. Shows the API messages in the TextBox window
 4. Entering the API key in a special window
+
+#### How to install:
+1. git clone 
+2. Saves the images in the Outputs folder automatically.
+3. Shows the API messages in the TextBox window
+4. Entering the API key in a special window

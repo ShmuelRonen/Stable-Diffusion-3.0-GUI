@@ -10,10 +10,6 @@ if not exist "venv" (
 rem Activate the virtual environment
 call venv\Scripts\activate
 
-rem Install PyTorch with CUDA support
-echo Installing PyTorch with CUDA support...
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-
 rem Install requirements
 echo Installing requirements...
 pip install -r requirements.txt
